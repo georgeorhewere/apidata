@@ -1,0 +1,71 @@
+{
+	"classes":
+	[
+		{
+			"id": 109746,
+			"title": "Science Grade 2 cmap",
+			"description": "Grade 2 CMAP",
+			"classcriteria": "Science - Grade Two (#5020030)( 2015 - and Beyond (current) )",
+			"lastsaved": "6/6/2019 6:19:28 AM",
+			"collaborative": false
+
+		},
+		{
+			"id": 109786,
+			"title": "Social Studies CMAP 2019",
+			"description": "social studieas",
+			"classcriteria": "M/J Social Studies (#2104000)( 2015 - and Beyond )",
+			"lastsaved": "6/6/2019 6:09:10 AM",
+			"collaborative": false
+
+		},
+		{
+			"id": 109758,
+			"title": "test",
+			"description": "test",
+			"classcriteria": "Algebra 1 Honors (#1200320)( 2014 - and Beyond (current) )",
+			"lastsaved": "5/29/2019 2:06:42 PM",
+			"collaborative": false
+
+		},
+		{
+			"id": 108717,
+			"title": "charbel Map",
+			"description": "This is a map for Charbel",
+			"classcriteria": "Algebra 1 (#1200310)( 2015 - and Beyond (current) ), Algebra 1 Honors (#1200320)( 2014 - and Beyond (current) )",
+			"lastsaved": "5/3/2019 4:07:40 AM",
+			"collaborative": true
+
+		},
+		{
+			"id": 108666,
+			"title": "NEw MRE import/export issue",
+			"description": "this is a test",
+			"classcriteria": " X-Mathematics (former standards - 2008), Mathematics, Grade 6",
+			"lastsaved": "5/29/2019 2:06:42 PM",
+			"collaborative": false
+
+		},
+		{
+			"id": 105517,
+			"title": "CMAP Grade Subjects",
+			"description": "test",
+			"classcriteria": "CTE-Arts, A/V Technology, and Communication, CTE-Energy, Grade K",
+			"lastsaved": "",
+			"collaborative": true
+
+		},
+		{
+			"id": 109758,
+			"title": "test",
+			"description": "test",
+			"classcriteria": "Algebra 1 Honors (#1200320)( 2014 - and Beyond (current) )",
+			"lastsaved": "5/29/2019 2:06:42 PM",
+			"collaborative": false
+
+		}
+	]
+
+
+
+}
